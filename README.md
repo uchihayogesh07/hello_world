@@ -1,3 +1,3 @@
 # hello_world.
-frist github try
+first github try
 Hii , i am Yogeshwar ,a student of IIIT Vadodara. 
